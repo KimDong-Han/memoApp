@@ -1,4 +1,4 @@
-# memoApp
+# JAVA&Realm으로 만든 메모장 
 memoApp
 
 base Source 
