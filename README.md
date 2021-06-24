@@ -15,6 +15,6 @@ Q.메모장이 용량이 50MB로  큰 이유
 
 
 
-A.OCR해본다고 이거저거 하다가 안되서 파일이 쌓여서 그렇습니다. 다른 메모장기능은 잘 작동합니다.
-
 메모삭제/입력/빈 메모 저장시도할 경우 저장거부 및 안내 팝업출력
+
+Google Play - https://play.google.com/store/apps/details?id=kr.ac.kumoh.s20131582.memo_java
